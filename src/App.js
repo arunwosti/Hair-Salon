@@ -9,7 +9,7 @@ import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import FooterTop from './Components/Footer-top';
 import Footer from './Components/Footer';
 import NavComponents from './Components/Nav';
-import AppointmentBooked from './Pages/AppointmentBooked';
+
 
 function App() {
   return (
@@ -22,7 +22,7 @@ function App() {
       <Route path="/services" element={<Services/>} />
       <Route path="/gallery" element={<Gallery/>} />
       <Route path="/contact" element={<Contact/>} />
-      <Route path='/appointment-booked' element={<AppointmentBooked/>}/>
+      
       </Routes> 
      
      <FooterTop/>

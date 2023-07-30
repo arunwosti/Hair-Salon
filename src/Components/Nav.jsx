@@ -5,16 +5,16 @@ function NavComponents() {
   return (
     <div>
         <header>
-	<div class="container">
+	<div className="container">
 		{/*<!-- nav --> */} 
-		<nav class="py-md-4 py-3 d-lg-flex">
+		<nav className="py-md-4 py-3 d-lg-flex">
 			<div id="logo">
-				<h1> <a href="#"><span class="fa fa-scissors"></span> Men's Salon</a></h1>
+				<h1> <a href="#"><span className="fa fa-scissors"></span> Men's Salon</a></h1>
 			</div>
-			<label for="drop" class="toggle"><span class="fa fa-bars"></span></label>
+			<label for="drop" className="toggle"><span className="fa fa-bars"></span></label>
 			<input type="checkbox" id="drop" />
-			<ul class="menu mt-lg-4 ml-auto">
-				{/* <li class="active"><a href="index.html">Home</a></li> */}
+			<ul className="menu mt-lg-4 ml-auto">
+				
                 <li>
                 <Link  className="active"  to='/'   >
                     Home
@@ -40,7 +40,7 @@ function NavComponents() {
                     Contact
                 </Link>
                 </li>
-				<li class=""><span><span class="fa fa-phone"></span> +12 34 3456 7890</span></li>
+				<li className=""><span><span className="fa fa-phone"></span> +12 34 3456 7890</span></li>
 			</ul>
 		</nav>
 		{/*<!-- //nav -->*/} 

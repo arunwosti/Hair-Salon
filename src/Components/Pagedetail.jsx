@@ -5,9 +5,9 @@ function PagedetailComponent({path, page}) {
   return (
     <div>
       {/* <!-- page details --> */}
-<div class="breadcrumb-agile">
-	<div class="container">
-		<ol class="breadcrumb">
+<div className="breadcrumb-agile">
+	<div className="container">
+		<ol className="breadcrumb">
 			<li className="breadcrumb-item">
          <Link  className="mybreadcrumb-item"  to='/'> Home </Link>
 			</li>

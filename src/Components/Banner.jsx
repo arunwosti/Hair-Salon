@@ -4,9 +4,9 @@ function BannerComponents() {
   return (
     <div>
         {/* <!-- banner --> */}
-<div class="inner-banner" id="home" >
-	<div class="inner-banner-overlay">
-		<div class="container">
+<div className="inner-banner" id="home" >
+	<div className="inner-banner-overlay">
+		<div className="container">
 			
 		</div>
 	</div>

@@ -17,31 +17,31 @@ function Services() {
 {/* <!-- //services --> */}
 
 {/* <!-- pricing --> */}
-<section class="pricing py-5">	
-	<div class="container py-md-4">
-		<h3 class="heading text-capitalize text-center mb-5"> Services & Pricing</h3>
-		<div class="row pricing-grids">
-			<div class="col-lg-4 col-md-6 mb-lg-0 mb-5">
-				<div class="padding">
-					<img src="assets/images/mustache.png" class="img-fluid" alt="" />
+<section className="pricing py-5">	
+	<div className="container py-md-4">
+		<h3 className="heading text-capitalize text-center mb-5"> Services & Pricing</h3>
+		<div className="row pricing-grids">
+			<div className="col-lg-4 col-md-6 mb-lg-0 mb-5">
+				<div className="padding">
+					<img src="assets/images/mustache.png" className="img-fluid" alt="" />
                      <PriceList title={'Hair Cut'} price={'19'} description={'Cutting, Washing, Drying'}/>
                      <PriceList title={'BEARD SHAPING'} price={'22'} description={'Cutting, Washing, Drying'}/>
                      <PriceList title={'CLEAN SHAVE'} price={'19'} description={'Cutting, Washing, Drying'}/>
                      <PriceList title={'HAIR STRAIGHTEN'} price={'11'} description={'Cutting, Washing, Drying'}/>
 				</div>
 			</div>
-			<div class="col-lg-4 col-md-6 mb-lg-0 mb-5">
-				<div class="padding">
-					<img src="assets/images/mustache.png" class="img-fluid" alt="" />
+			<div className="col-lg-4 col-md-6 mb-lg-0 mb-5">
+				<div className="padding">
+					<img src="assets/images/mustache.png" className="img-fluid" alt="" />
                      <PriceList title={'Hair Cut'} price={'19'} description={'Cutting, Washing, Drying'}/>
                      <PriceList title={'BEARD SHAPING'} price={'22'} description={'Cutting, Washing, Drying'}/>
                      <PriceList title={'CLEAN SHAVE'} price={'19'} description={'Cutting, Washing, Drying'}/>
                      <PriceList title={'HAIR STRAIGHTEN'} price={'11'} description={'Cutting, Washing, Drying'}/>
 				</div>
 			</div>
-			<div class="col-lg-4 col-md-6 ">
-				<div class="padding">
-					<img src="assets/images/mustache.png" class="img-fluid" alt="" />
+			<div className="col-lg-4 col-md-6 ">
+				<div className="padding">
+					<img src="assets/images/mustache.png" className="img-fluid" alt="" />
                      <PriceList title={'Hair Cut'} price={'19'} description={'Cutting, Washing, Drying'}/>
                      <PriceList title={'BEARD SHAPING'} price={'22'} description={'Cutting, Washing, Drying'}/>
                      <PriceList title={'CLEAN SHAVE'} price={'19'} description={'Cutting, Washing, Drying'}/>
