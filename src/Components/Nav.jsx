@@ -9,7 +9,7 @@ function NavComponents() {
 		{/*<!-- nav --> */} 
 		<nav className="py-md-4 py-3 d-lg-flex">
 			<div id="logo">
-				<h1> <a href="#"><span className="fa fa-scissors"></span> Men's Salon</a></h1>
+				<h1> <a href="/"><span className="fa fa-scissors"></span> Men's Salon</a></h1>
 			</div>
 			<label for="drop" className="toggle"><span className="fa fa-bars"></span></label>
 			<input type="checkbox" id="drop" />
