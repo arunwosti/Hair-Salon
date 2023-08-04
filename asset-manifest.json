@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Hair-Salon/static/css/main.a4838356.css",
-    "main.js": "/Hair-Salon/static/js/main.18d3cd9c.js",
-    "static/js/787.935436a4.chunk.js": "/Hair-Salon/static/js/787.935436a4.chunk.js",
-    "static/media/logo.svg": "/Hair-Salon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Hair-Salon/index.html",
-    "main.a4838356.css.map": "/Hair-Salon/static/css/main.a4838356.css.map",
-    "main.18d3cd9c.js.map": "/Hair-Salon/static/js/main.18d3cd9c.js.map",
-    "787.935436a4.chunk.js.map": "/Hair-Salon/static/js/787.935436a4.chunk.js.map"
+    "main.css": "/static/css/main.a4838356.css",
+    "main.js": "/static/js/main.1bc0ef2b.js",
+    "static/js/787.935436a4.chunk.js": "/static/js/787.935436a4.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.a4838356.css.map": "/static/css/main.a4838356.css.map",
+    "main.1bc0ef2b.js.map": "/static/js/main.1bc0ef2b.js.map",
+    "787.935436a4.chunk.js.map": "/static/js/787.935436a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4838356.css",
-    "static/js/main.18d3cd9c.js"
+    "static/js/main.1bc0ef2b.js"
   ]
 }
