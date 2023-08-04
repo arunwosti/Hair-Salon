@@ -10,6 +10,7 @@ body {
 html {
   scroll-behavior: smooth;
 }
+
 body a {
     text-decoration: none;
     transition: 0.5s all;
